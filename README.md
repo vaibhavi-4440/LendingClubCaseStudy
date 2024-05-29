@@ -1,7 +1,9 @@
 # Project Name
+
 Lending Club Case Study
 
 ## Table of Contents
+
 *Problem Statement
 *Objectives
     Data Understanding
@@ -19,10 +21,13 @@ Lending Club Case Study
 *Univariate Analysis
 *Bivariate Analysis
 
-<!-- You can include any other section that is pertinent to your problem -->
+
+
 
 **General Information LendingClub Case study**
+
 In this case study, we’ll delve into LendingClub’s loan data, explore key factors influencing loan defaults, and propose strategies for mitigating Credit losses.
+
 
 **Importance of analyzing loan defaults-**
 
@@ -31,12 +36,15 @@ Default Prediction: By analyzing historical data, we can identify patterns and f
 Strategic Decision-Making: Insights from this analysis help LendingClub make informed decisions about loan underwriting, risk assessment, and portfolio management.
 Investor Confidence: Investors rely on accurate default predictions to allocate funds effectively and manage their investment portfolios.
 
+
 **Business Context**
+
 The task at hand is to analyze historical data related to loan applications.
 The goal is to identify the key factors that drive loan defaults.
 By understanding these factors, the company can make informed decisions to improve their loan approval process and reduce the risk of default.
 
 ## Technologies Used
+
 Python
     Python Libraries:
       NumPy
@@ -50,4 +58,5 @@ Approach:
     Exploratory Data Analysis (EDA)
 
 ## Contact
+
 Created by [vaibhavi-4440] - feel free to contact me!
