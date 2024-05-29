@@ -1,52 +1,53 @@
 # Project Name
-> Outline a brief description of your project.
-
+Lending Club Case Study
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+*Problem Statement
+*Objectives
+    Data Understanding
+    Data Understanding Domain
+    Columns Analysis
+    Missing Data
+    Column Dropping
+*Loading Data
+    Data Cleaning and Manipulation
+    Columns Review
+    Dropping Rows
+    Dropping Columns
+    Outlier
+    Data Conversion
+*Univariate Analysis
+*Bivariate Analysis
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+**General Information LendingClub Case study**
+In this case study, we’ll delve into LendingClub’s loan data, explore key factors influencing loan defaults, and propose strategies for mitigating Credit losses.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+**Importance of analyzing loan defaults-**
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Risk Management: LendingClub faces the challenge of optimizing loan approvals while minimizing risks associated with loan defaults.
+Default Prediction: By analyzing historical data, we can identify patterns and factors that contribute to loan defaults.
+Strategic Decision-Making: Insights from this analysis help LendingClub make informed decisions about loan underwriting, risk assessment, and portfolio management.
+Investor Confidence: Investors rely on accurate default predictions to allocate funds effectively and manage their investment portfolios.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+**Business Context**
+The task at hand is to analyze historical data related to loan applications.
+The goal is to identify the key factors that drive loan defaults.
+By understanding these factors, the company can make informed decisions to improve their loan approval process and reduce the risk of default.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+Python
+    Python Libraries:
+      NumPy
+      Pandas
+      Data Visualization
+      Matplotlib
+      Seaborn
+Editor:
+    Jupyter Notebooks
+Approach:
+    Exploratory Data Analysis (EDA)
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [vaibhavi-4440] - feel free to contact me!
